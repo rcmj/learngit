@@ -1,3 +1,4 @@
 第一个git文件
 我来修改下
 disancixiugai
+验证git管理的是修改1
